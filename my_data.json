@@ -1,0 +1,38 @@
+{
+  "documents": [
+    "Machine learning is a method of data analysis that automates analytical model building. It uses algorithms that iteratively learn from data, allowing computers to find hidden insights without being explicitly programmed where to look.",
+    "Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers. These networks can automatically learn representations of data through a process called backpropagation.",
+    "Python is a high-level programming language that's become the go-to choice for data science and machine learning. Its simple syntax and extensive libraries make it ideal for rapid development.",
+    "Data science combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. It involves data collection, cleaning, analysis, and visualization.",
+    "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.",
+    "Natural language processing enables computers to understand, interpret, and manipulate human language. It bridges the gap between human communication and computer understanding.",
+    "Computer vision gives machines the ability to interpret and make decisions based on visual data from the world around them. It uses deep learning models to identify objects, faces, and scenes.",
+    "Big data refers to extremely large datasets that require special tools and techniques to store, process, and analyze. It's characterized by volume, velocity, and variety.",
+    "Cloud computing provides on-demand access to computing resources over the internet. It offers scalability, flexibility, and cost-effectiveness for businesses and individuals.",
+    "Cybersecurity protects digital systems, networks, and data from malicious attacks. It involves implementing security measures to prevent unauthorized access and data breaches."
+  ],
+  "labels": [
+    "machine_learning",
+    "deep_learning", 
+    "programming",
+    "data_science",
+    "artificial_intelligence",
+    "nlp",
+    "computer_vision",
+    "big_data",
+    "cloud_computing",
+    "cybersecurity"
+  ],
+  "metadata": [
+    {"category": "AI/ML", "difficulty": "intermediate", "topic": "algorithms"},
+    {"category": "AI/ML", "difficulty": "advanced", "topic": "neural_networks"},
+    {"category": "Programming", "difficulty": "beginner", "topic": "languages"},
+    {"category": "Data", "difficulty": "intermediate", "topic": "analysis"},
+    {"category": "AI/ML", "difficulty": "beginner", "topic": "concepts"},
+    {"category": "AI/ML", "difficulty": "intermediate", "topic": "language"},
+    {"category": "AI/ML", "difficulty": "intermediate", "topic": "vision"},
+    {"category": "Data", "difficulty": "intermediate", "topic": "storage"},
+    {"category": "Infrastructure", "difficulty": "beginner", "topic": "computing"},
+    {"category": "Security", "difficulty": "intermediate", "topic": "protection"}
+  ]
+}

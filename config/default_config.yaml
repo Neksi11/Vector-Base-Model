@@ -1,0 +1,51 @@
+# Default Configuration for Advanced RAG Agent
+
+# RAG Agent Settings
+rag_agent:
+  max_context_length: 4000
+  top_k_retrieval: 10
+  response_temperature: 0.7
+  enable_query_expansion: true
+  enable_reranking: true
+
+# Vector Store Settings
+vector_store:
+  chunk_size: 500
+  chunk_overlap: 50
+  use_hybrid_search: true
+  svd_components: 100
+  similarity_metrics:
+    - cosine
+    - euclidean
+
+# Query Processor Settings
+query_processor:
+  enable_spell_correction: true
+  enable_synonym_expansion: true
+  max_expanded_terms: 5
+
+# Response Generator Settings
+response_generator:
+  max_length: 4000
+  temperature: 0.7
+  context_fusion_method: weighted_combination
+  max_context_chunks: 5
+
+# Evaluation Settings
+evaluator:
+  enable_ground_truth_eval: false
+  performance_tracking: true
+  evaluation_history_limit: 1000
+
+# Logging Settings
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "rag_agent.log"
+
+# Performance Settings
+performance:
+  enable_caching: true
+  cache_size: 1000
+  parallel_processing: false
+  batch_size: 32

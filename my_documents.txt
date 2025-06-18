@@ -1,0 +1,10 @@
+Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
+Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.
+Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.
+Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language.
+Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.
+Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software.
+Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information.
